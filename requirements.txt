@@ -6,3 +6,5 @@ langchain-groq
 pypdf
 python-docx
 pdfplumber
+pinecone
+sentence-transformers
